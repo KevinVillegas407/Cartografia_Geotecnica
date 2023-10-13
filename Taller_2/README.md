@@ -1,3 +1,3 @@
-# TALLER 1 - Selección de la cuenca
+# TALLER 2 - Cartografía base de la cuenca
 
-En esta carpeta se encuentra la solución al taller 1. Se hace una presentación de la zona de estudio, mediante un mapa con la localización, y algunas generalidades.
+En esta carpeta se encuentra la solución al taller 2. Se adjunta la cartografía base de la cuenca de la quebrada La Valeria.
