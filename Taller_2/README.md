@@ -1,3 +1,3 @@
-# TALLER 5 - Selección de variables
+# TALLER 2 - Cartografía base de la cuenca
 
-En esta carpeta se encuentra la solución al taller 5. Se seleccionan las variables que van a ser usadas en los modelos para la cuenca de la quebrada La Valeria.
+En esta carpeta se encuentra la solución al taller 2. Se presenta la cartografía base de la cuenca de la quebrada La Valeria.
